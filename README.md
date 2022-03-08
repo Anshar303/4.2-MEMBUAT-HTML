@@ -75,8 +75,6 @@ Cara cara dasar membuat HTM
 Note ;
 Memasukkan gambar di usahakan di dalam folder, dan kita mengingat folder yang ada gambarnya itu. Lalu memasukan perintah nya untuk memanggil atau membaca folder gambar tersebut . 
 
-(<p><br></p>)	 ( untuk membuat spasi ke bawah )
-(<hr>)		 ( untuk membuat garis di bawah  )
 
 
 12.	Mengirim codingan ke dalam repositori git hub 
