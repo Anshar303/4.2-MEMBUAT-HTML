@@ -1,5 +1,8 @@
 # 4.2-MEMBUAT-HTML
 
+     NAMA  : Anshar Rahmawan
+     NIM   : 312010308
+     KELAS : TI.20.A2
 
 Cara cara dasar membuat HTM
 
@@ -110,6 +113,11 @@ Memasukkan gambar di usahakan di dalam folder, dan kita mengingat folder yang ad
 
  ![image](https://user-images.githubusercontent.com/72779594/157274271-fbc23182-5166-4207-8d88-261216c59eba.png)
 
+19.	Hasil HTML
+
+![image](https://user-images.githubusercontent.com/72779594/157274992-37a987b6-68f3-4455-8985-45c239b14810.png)
+
+![image](https://user-images.githubusercontent.com/72779594/157275020-668fe57c-861e-40b6-a072-126e92b3c657.png)
 
 
 
