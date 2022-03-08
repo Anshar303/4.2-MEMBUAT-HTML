@@ -42,13 +42,13 @@ Cara cara dasar membuat HTM
  
 ![image](https://user-images.githubusercontent.com/72779594/157267279-30730d24-cd95-4fb5-ac1d-be0a340d25e5.png)
 
-7.	Membuat judul halaman denga menggunakan h1 atau h2 dan seterusnya
+7.	Membuat judul halaman dengan menggunakan h1 atau h2 dan seterusnya
 
 ![image](https://user-images.githubusercontent.com/72779594/157267344-980bc2e5-cbec-4e34-a71a-6da104f9b4a0.png)
 
 ![image](https://user-images.githubusercontent.com/72779594/157267379-75779b32-313d-40aa-a76a-bb3694be1921.png)
  
-8.	Membuat baris atau paragraph baru dengan menggunakan <p> </p>
+8.	Membuat baris atau paragraph baru dengan menggunakan (<p> </p>)
 
  ![image](https://user-images.githubusercontent.com/72779594/157267548-5cf5f19a-7211-4595-a93a-59fe780fc0fe.png)
  
@@ -75,8 +75,8 @@ Cara cara dasar membuat HTM
 Note ;
 Memasukkan gambar di usahakan di dalam folder, dan kita mengingat folder yang ada gambarnya itu. Lalu memasukan perintah nya untuk memanggil atau membaca folder gambar tersebut . 
 
-<p><br></p>	 ( untuk membuat spasi ke bawah )
-<hr>		 ( untuk membuat garis di bawah  )
+(<p><br></p>)	 ( untuk membuat spasi ke bawah )
+(<hr>)		 ( untuk membuat garis di bawah  )
 
 
 12.	Mengirim codingan ke dalam repositori git hub 
