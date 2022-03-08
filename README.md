@@ -79,3 +79,42 @@ Memasukkan gambar di usahakan di dalam folder, dan kita mengingat folder yang ad
 
 12.	Mengirim codingan ke dalam repositori git hub 
 
+![image](https://user-images.githubusercontent.com/72779594/157273864-53b54433-9621-4067-ad2b-20deb2f64eb8.png)
+
+13.	Menjadikan folder menjadi repositori
+
+![image](https://user-images.githubusercontent.com/72779594/157273998-9cb1c341-75be-4fd5-aaf8-85c042e9148a.png)
+ 
+ 
+14.	Memasukan file README
+
+ ![image](https://user-images.githubusercontent.com/72779594/157274031-8ee9f40b-e328-4ed8-94af-fd8862aeb36a.png)
+
+![image](https://user-images.githubusercontent.com/72779594/157274065-9f12aa03-2817-42eb-a785-90e783a1a3e8.png)
+
+ ![image](https://user-images.githubusercontent.com/72779594/157274103-6a274dd2-2aa6-4875-99e3-8986bd33be35.png)
+
+15.	Mengkommit file tersebut ke dalam git hub
+
+ ![image](https://user-images.githubusercontent.com/72779594/157274145-985a78a2-1981-48a1-ada3-cdba622c7ad0.png)
+
+16.	Membuat repository baru di git hub
+
+ ![image](https://user-images.githubusercontent.com/72779594/157274195-a77709b2-ddf6-4dc2-b7c6-871275bed7a0.png)
+
+17.	 Copy link yang di blok
+
+ ![image](https://user-images.githubusercontent.com/72779594/157274229-c8789ebe-281b-486d-8dd5-c3007123f13e.png)
+
+18.	Lalu menghubungkan dari folder ke git hub dengan “git remote add origin”
+
+ ![image](https://user-images.githubusercontent.com/72779594/157274271-fbc23182-5166-4207-8d88-261216c59eba.png)
+
+
+
+
+
+
+
+
+
